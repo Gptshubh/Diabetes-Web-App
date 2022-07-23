@@ -8,6 +8,7 @@ Created on Tue May 31 14:13:34 2022
 import numpy as np
 import pickle 
 import streamlit as st
+import sklearn
 
 loaded_model=pickle.load(open('Diabetes-Web-App/trained_model.sav','rb'))
 
