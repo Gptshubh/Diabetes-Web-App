@@ -4,13 +4,10 @@ Created on Tue May 31 14:13:34 2022
 
 @author: subha
 """
-
-import numpy as np
 import pickle 
 import streamlit as st
-import sklearn
 
-loaded_model=pickle.load(open('Diabetes-Web-App/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav', 'rb'))
 
 def diabetes_prediction(input_data):
     
