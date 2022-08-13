@@ -4,6 +4,7 @@ Created on Tue May 31 14:13:34 2022
 
 @author: subha
 """
+import numpy as np
 import pickle 
 import streamlit as st
 
