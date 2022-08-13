@@ -7,7 +7,7 @@ Created on Tue May 31 14:13:34 2022
 import pickle 
 import streamlit as st
 
-loaded_model = pickle.load(open('trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('/trained_model.sav', 'rb'))
 
 def diabetes_prediction(input_data):
     
