@@ -1,7 +1,7 @@
 # Diabetes-Web-App
-Built a Support Vector Machine(SVM) classifier model on diabetes dataset, used scaling and other dat preprocessing techniques to clean the data.
+Built a Support Vector Machine(SVM) classifier model on diabetes dataset, used scaling and other data preprocessing techniques to clean the data.
 
-Used streamlit library to built a UI for entering input parameters to figure if the peron is diabetic or not.
+Used streamlit library to built an UI for entering input parameters to figure if the peron is diabetic or not.
 
 # Screenshots
 
